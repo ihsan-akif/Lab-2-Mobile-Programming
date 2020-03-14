@@ -1,6 +1,6 @@
 # budget_tracker
 
-A new Flutter project.
+Lab 2 Assignment for STIW2044 A192 Mobile Programming
 
 ## Getting Started
 
